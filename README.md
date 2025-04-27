@@ -17,7 +17,6 @@ It uses **inquirer** for prompts and **AWS SDK v3** for resource management.
 
 - Node.js (v14 or higher recommended)
 - AWS account credentials with sufficient permissions
-- Installed packages (`package.json` is already provided)
 
 Install dependencies with:
 
